@@ -1,0 +1,5 @@
+= simple_form_for @form,
+  url: forms_path do |f|
+
+  = f.input :vitality_check_medical_systolic
+  = f.input :vitality_check_medical_systolic, min_max: true
