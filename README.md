@@ -2,7 +2,7 @@
 
 * Start the app normally using `rails s`
 * Navigate to [](http://localhost:3000/forms/new)
-* [Model](https://github.com/franks921/simple_form_debug/blob/master/app/model/form.rb)
+* [Model](https://github.com/franks921/simple_form_debug/blob/master/app/models/form.rb)
 * [Form template](https://github.com/franks921/simple_form_debug/blob/master/app/views/forms/new.html.slim)
 
 The expected behavior is for both inputs to render the following HTML:
