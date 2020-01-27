@@ -2,6 +2,8 @@
 
 * Start the app normally using `rails s`
 * Navigate to [http://localhost:3000/forms/new]()
+* Form template [./blob/master/app/views/forms/new.html.slim]()
+* Model [./blob/master/app/model/form.rb]()
 
 The expected behavior is for both inputs to render the following HTML:
 
